@@ -1,16 +1,30 @@
-## Hi there 👋
+# What's Up, I'm Arnav 👋
 
-<!--
-**khinvi/khinvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Background**  
+M.S. Computer Science @ UC San Diego | B.S. CS @ UC Santa Cruz  
+Passionate about building scalable systems and applying machine learning in impactful ways.
 
-Here are some ideas to get you started:
+- 📍 Based in Los Altos & San Diego, CA  
+- 📧 akhinvasara@ucsd.edu  
+- 🎓 B.S. + M.S. in Computer Science  
+- 🛠️ Core Skills: ML/AI, Software Engineering, Cloud Computing, Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+- **Cloud Threat Detection Evaluation** – MTTD comparison across AWS/GCP/Azure  
+- **Secure RAG Systems** – Mitigating prompt injection attacks in vector DB setups  
+- **Sneaker Bot Detector** – AI system for automated bot identification  
+- **NLP Sentiment Classifier** – DistilBERT/TextCNN for fitness app reviews  
+- **Steam Recommender** – Matrix factorization + cosine similarity  
+- **Spotify → Apple Music** – Playlist converter using web APIs
+
+---
+
+## 📫 Let's Connect!
+I'm always open to collaborations, opportunities, or just a good chat!
+
+---
+
+© 2025 Arnav Khinvasara. All rights reserved.
