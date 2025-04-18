@@ -15,9 +15,7 @@ Passionate about building scalable systems and applying machine learning in impa
 
 - **Cloud Threat Detection Evaluation** – MTTD comparison across AWS/GCP/Azure  
 - **Secure RAG Systems** – Mitigating prompt injection attacks in vector DB setups  
-- **Sneaker Bot Detector** – AI system for automated bot identification  
-- **NLP Sentiment Classifier** – DistilBERT/TextCNN for fitness app reviews  
-- **Steam Recommender** – Matrix factorization + cosine similarity  
+- **Sneaker Bot Detector** – AI system for automated bot identification 
 - **Spotify → Apple Music** – Playlist converter using web APIs
 
 ---
