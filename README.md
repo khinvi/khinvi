@@ -21,7 +21,7 @@ Passionate about building scalable systems and applying machine learning in impa
 ---
 
 ## 📫 Let's Connect!
-I'm always open to collaborations, opportunities, or just a good chat!
+If you're interested in any of my projects, I'm always open to collaborations, opportunities, or even just a good chat!
 
 ---
 
