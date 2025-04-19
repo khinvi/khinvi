@@ -1,4 +1,4 @@
-# What's Up, I'm Arnav 👋
+# Hi 👋, I'm Arnav
 
 **Background**  
 M.S. Computer Science @ UC San Diego | B.S. CS @ UC Santa Cruz  
