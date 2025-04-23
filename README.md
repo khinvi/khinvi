@@ -11,7 +11,7 @@ Passionate about building scalable systems and applying machine learning in impa
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Projects I'm Working On! 
 
 - **Cloud Threat Detection Evaluation** – MTTD comparison across AWS/GCP/Azure  
 - **Secure RAG Systems** – Mitigating prompt injection attacks in vector DB setups  
