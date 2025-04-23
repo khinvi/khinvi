@@ -13,10 +13,23 @@ Passionate about building scalable systems and applying machine learning in impa
 
 ## 🚀 Current Projects I'm Working On! 
 
-- **Cloud Threat Detection Evaluation** – MTTD comparison across AWS/GCP/Azure  
-- **Secure RAG Systems** – Mitigating prompt injection attacks in vector DB setups  
-- **Sneaker Bot Detector** – AI system for automated bot identification 
-- **Spotify → Apple Music** – Playlist converter Web-App using web APIs fused with a Recommender System
+- **Cloud Threat Detection Evaluation** – MTTD comparison across AWS/GCP/Azure
+
+- **Secure RAG Systems** – Mitigating prompt injection in vector databases
+
+- **Sneaker Bot Detector** – AI system identifying automated purchase patterns
+
+- **Spotify → Apple Music** – API-based playlist converter with recommendations
+
+- **Fitness Review Sentiment Classifier** – TextCNN/DistilBERT for app review analysis
+
+- **Steam® Game Recommender** – SVD-powered personalized game recommendations
+
+- **Heart Disease Fairness Analysis** – Mitigating gender bias in predictions
+
+- **Stock Market Chrome Extension** – Website-contextual financial data display
+
+- **Emotional Landscape Composer** – Transforms geography into musical compositions
 
 ---
 
