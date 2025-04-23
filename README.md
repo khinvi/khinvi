@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arnav
 
-##Background  
+## Background  
 **M.S. Computer Science @ UC San Diego | B.S. CS @ UC Santa Cruz**  
 Passionate about building scalable systems and applying machine learning in impactful ways.
 
