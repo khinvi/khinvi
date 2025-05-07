@@ -65,7 +65,7 @@ Passionate about building scalable systems and applying machine learning in impa
 
 ## 📫 Let's Connect!
 
-Interested in any of my projects? Right now, I’m especially looking to connect with folks passionate about RAG systems, cloud security, and anti-bot technologies. If that sounds like you, let’s build something cool together!
+Interested in any of my projects? I’m especially looking to connect with folks passionate about RAG systems, cloud security, and anti-bot technologies. If that sounds like you, let’s build something cool together!
 
 ---
 
