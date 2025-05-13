@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arnav
 
 ## 📝 Background  
-**M.S. Computer Science @ UC San Diego | B.S. CS @ UC Santa Cruz**  
+**M.S. Computer Science @ UC San Diego | B.S. @ UC Santa Cruz**  
 Passionate about building scalable systems and applying machine learning in impactful ways - learn more about me [here](https://khinvi.github.io/)!
 
 - 📍 Based in Los Altos & San Diego, CA  
