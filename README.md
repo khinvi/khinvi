@@ -55,7 +55,7 @@ Passionate about building scalable systems and applying machine learning in impa
 ## 🚀 Current Projects I'm Working On! 
 
 - **Cloud Threat Detection Evaluation** – MTTD comparison across AWS/GCP/Azure
-- **Secure RAG Systems** – Mitigating prompt injection in vector databases
+- **Secure RAG Systems** – Context Boundary Implementations against Prompt Injection Attacks (Structured Data & Code Inputs)
 - **Sneaker Bot Detector** – AI system identifying automated purchase patterns
 - **Spotify → Apple Music** – API-based playlist converter with recommendations
 - **Stock Market Chrome Extension** – Website-contextual financial data display
